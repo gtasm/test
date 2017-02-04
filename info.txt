@@ -1,3 +1,6 @@
 a
 new: b
+
 master:c
+new:creating conflict
+conflict resolved manually
